@@ -1,5 +1,5 @@
 # Grep Command
- - Implementation Using 'C'
+  Implementation Using 'C'
  
 A Grep Implementation Project, made as a project for my DSA - I course, implemented in C language.
 
