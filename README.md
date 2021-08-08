@@ -1,7 +1,7 @@
-# Grep
- Implementation Using 'C'
+# Grep Command
+ - Implementation Using 'C'
  
-A garbage collector library, made as a project for my DSA - I course, implemented in C language.
+A Grep Implementation Project, made as a project for my DSA - I course, implemented in C language.
 
 Name: =Shruti Nitin Patil
 MIS: 142003010
